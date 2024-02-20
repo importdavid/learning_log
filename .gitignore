@@ -1,0 +1,5 @@
+# Ignore Python venv directories
+venv/
+
+# Ignore pycache
+__pycache__/
